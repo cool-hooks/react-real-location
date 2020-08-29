@@ -9,7 +9,7 @@
 
 ## About
 
-Get current location from react-router outside the Switch component.
+Get current location from react-router outside the Switch component
 
 ## How to Install
 
@@ -35,6 +35,10 @@ import { useRealLocation } from 'react-real-location';
 
 #### Returned Values
 
+| Type                                                  | Description             |
+| ----------------------------------------------------- | ----------------------- |
+| [Location](https://reactrouter.com/web/api/location/) | Current location params |
+
 #### Example
 
 ```js
@@ -44,6 +48,10 @@ import React from 'react';
 import { Switch, Route, Redirect } from 'react-router-dom';
 import { useRealLocation } from 'react-real-location';
 
+import Home from './pages/Home';
+import Product from './pages/Product';
+import Client from './pages/Client';
+
 const App = () => {
   const { pathname } = useRealLocation();
 
@@ -52,9 +60,9 @@ const App = () => {
       <p>{pathname}</p>
 
       <Switch>
-        <Route exact path="/" />
-        <Route path="/product/:id" />
-        <Route path="/client/:id" />
+        <Route exact path="/" component={Home} />
+        <Route path="/product/:id" component={Product} />
+        <Route path="/client/:id" component={Client} />
 
         <Redirect from="*" to="/" />
       </Switch>

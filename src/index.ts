@@ -1,1 +1,1 @@
-export { useRealLocation } from "./useRealLocation";
+export { useRealLocation } from './useRealLocation';
