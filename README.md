@@ -1,9 +1,9 @@
-# [react-real-location](https://github.com/jb1905/react-real-location)
+# [react-real-location](https://github.com/cool-hooks/react-real-location)
 
 [![NPM version](http://img.shields.io/npm/v/react-real-location?style=flat-square)](https://www.npmjs.com/package/react-real-location)
 [![NPM downloads](http://img.shields.io/npm/dm/react-real-location?style=flat-square)](https://www.npmjs.com/package/react-real-location)
 [![NPM license](https://img.shields.io/npm/l/react-real-location?style=flat-square)](https://www.npmjs.com/package/react-real-location)
-[![Codecov](https://img.shields.io/codecov/c/github/JB1905/react-real-location?style=flat-square)](https://codecov.io/gh/cool-hooks/react-real-location)
+[![Codecov](https://img.shields.io/codecov/c/github/cool-hooks/react-real-location?style=flat-square)](https://codecov.io/gh/cool-hooks/react-real-location)
 [![Travis](https://img.shields.io/travis/cool-hooks/react-real-location/master?style=flat-square)](https://travis-ci.org/cool-hooks/react-real-location)
 [![Bundle size](https://img.shields.io/bundlephobia/min/react-real-location?style=flat-square)](https://bundlephobia.com/result?p=react-real-location)
 
