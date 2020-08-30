@@ -11,7 +11,7 @@ export const useRealLocation = () => {
     setRealLocation(location);
 
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [location, window?.location]);
+  }, [window?.location]);
 
   return realLocation;
 };
