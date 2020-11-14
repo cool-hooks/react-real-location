@@ -1,7 +1,7 @@
 # [react-real-location](https://github.com/cool-hooks/react-real-location)
 
-[![NPM version](http://img.shields.io/npm/v/react-real-location?style=flat-square)](https://www.npmjs.com/package/react-real-location)
-[![NPM downloads](http://img.shields.io/npm/dm/react-real-location?style=flat-square)](https://www.npmjs.com/package/react-real-location)
+[![NPM version](https://img.shields.io/npm/v/react-real-location?style=flat-square)](https://www.npmjs.com/package/react-real-location)
+[![NPM downloads](https://img.shields.io/npm/dm/react-real-location?style=flat-square)](https://www.npmjs.com/package/react-real-location)
 [![NPM license](https://img.shields.io/npm/l/react-real-location?style=flat-square)](https://www.npmjs.com/package/react-real-location)
 [![Codecov](https://img.shields.io/codecov/c/github/cool-hooks/react-real-location?style=flat-square)](https://codecov.io/gh/cool-hooks/react-real-location)
 [![Travis](https://img.shields.io/travis/cool-hooks/react-real-location/master?style=flat-square)](https://travis-ci.org/cool-hooks/react-real-location)
