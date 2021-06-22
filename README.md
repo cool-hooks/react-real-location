@@ -11,6 +11,10 @@
 
 Get current location from react-router outside the Switch component
 
+### Demo
+
+**[Playground – play with library in CodeSandbox](https://codesandbox.io/s/react-real-location-rcpl7)**
+
 ## How to Install
 
 First, install the library in your project by npm:
